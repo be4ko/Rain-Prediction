@@ -3,7 +3,6 @@
 ## Overview 
 This project leverages a machine-learning approach to predict rain based on a weather dataset. We preprocess the data, implement multiple algorithms, and analyze their performance using key evaluation metrics. Additionally, a custom implementation of the k-Nearest Neighbors (kNN) algorithm is developed and compared with Scikit-learn's kNN.
 
----
  
 ## Features 
 - Scale features to ensure consistency.
@@ -12,14 +11,12 @@ This project leverages a machine-learning approach to predict rain based on a we
 - Plot decision trees to explain the prediction process.
 - Generate detailed reports on the decision tree and kNN results.
 
----
 
 ## Dataset
 Source: Kaggle (modified version)
 Features: 6
 Records: 2,500 observations
 
----
 
 ## Used Technologies 
 - Programming Language: Python.
@@ -27,7 +24,6 @@ Records: 2,500 observations
 - Machine Learning: Scikit-learn.
 - Visualization: Matplotlib, Seaborn.
 
----
 
 ## Installation and Usage
 
