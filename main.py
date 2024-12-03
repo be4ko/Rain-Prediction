@@ -174,7 +174,7 @@ print(f"Recall of the implementation for '{classes[1]}' is {recall[classes[1]]:.
 
 print("________________________________________")
 
-'''
+
 # __________________________________________________________________________________________
 #                              | Task 3 |
 # __________________________________________________________________________________________
@@ -233,4 +233,3 @@ plot_tree(dt_classifier, filled=True, rounded=True, class_names=['No Rain', 'Rai
 plt.title("Decision Tree")
 plt.savefig("decision_tree.png")
 plt.show()
-'''
